@@ -7,3 +7,8 @@ p{
     color: gray;
     margin-bottom: 10px;
 }
+body{
+    background-color: #f4f4f4;
+    font-family: 'Helvetica Neue', sans-serif;
+    padding: 20px;
+}
